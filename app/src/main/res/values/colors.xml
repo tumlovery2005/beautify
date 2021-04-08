@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1B1E20</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#626A76</color>
+
+    <color name="colorEdit">#23D14C</color>
+    <color name="colorDelete">#E02932</color>
+
+    <color name="navOne">#F27975</color>
+    <color name="navTwo">#DDC19A</color>
+    <color name="navThree">#D6A686</color>
+    <color name="navFour">#8699A3</color>
+
+    <color name="favProgress">#FFE932</color>
+
+    <color name="statusOpen">#4CAF50</color>
+    <color name="statusClose">#464646</color>
+</resources>

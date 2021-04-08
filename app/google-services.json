@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898813693011",
+    "firebase_url": "https://beautify-newell.firebaseio.com",
+    "project_id": "beautify-newell",
+    "storage_bucket": "beautify-newell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898813693011:android:6fbf400d6bfe0919",
+        "android_client_info": {
+          "package_name": "com.application.beautify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898813693011-593qv3g3bnlht73hhejfv22gmoaqbuac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbBa8j0KrYBxtkfk_fr6vIfyUmurdo7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898813693011-593qv3g3bnlht73hhejfv22gmoaqbuac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

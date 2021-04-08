@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Beautify</string>
+    <string name="login_title">ลงชื่อเข้าใช้งาน</string>
+    <string name="login_register">ลงทะเบียน</string>
+    <string name="login_password">รหัสผ่าน</string>
+    <string name="login_email">อีเมล</string>
+
+    <string name="error_title">ขออภัย!</string>
+    <string name="error_message">มีการทำงานบางอย่างผิดปกติ! กรุณาลองใหม่ภายหลัง</string>
+    <string name="general_positive_button">ตกลง</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="admin_logout">Logout</string>
+    <string name="nav_beautify">ข้อมูลร้านเสริมสวย</string>
+    <string name="nav_profile">ข้อมูลผู้ใช้งาน</string>
+    <string name="nav_promotion">ข้อมูลโปรโมชั่น</string>
+    <string name="nav_map">ข้อมูลแผนที่</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beautify_add_name">ชื่อร้าน</string>
+    <string name="beautify_add_lat">ละติจูด</string>
+    <string name="beautify_add_lng">ลองจิจูด</string>
+    <string name="nav_home">หน้าหลัก</string>
+    <string name="ic_search">ค้นหา</string>
+    <string name="nav_maps">แผนที่</string>
+    <string name="nav_fav">รายการโปรด</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_detail">รายละเอียดร้าน</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.owner.OwnerActivity"
+        android:background="@drawable/bg">
+
+    <Button
+            android:text="รายการคิวที่มีการจอง"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:id="@+id/btnOwnerCheckQueue"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="32dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="32dp"
+            android:textSize="18sp"
+            style="@style/Widget.AppCompat.Button.Colored"/>
+    <Button
+            android:text="จัดการร้าน"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:id="@+id/btnOwnerManage"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toBottomOf="@+id/btnOwnerCheckQueue"
+            app:layout_constraintEnd_toEndOf="@+id/btnOwnerCheckQueue"
+            app:layout_constraintStart_toStartOf="@+id/btnOwnerCheckQueue"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textSize="18sp"/>
+    <Button
+            android:text="จัดการโปรโมชัน"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:id="@+id/btnOwnerPromotion"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toBottomOf="@+id/btnOwnerManage"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="32dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="32dp"
+            android:textSize="18sp"
+            style="@style/Widget.AppCompat.Button.Colored"/>
+</android.support.constraint.ConstraintLayout>
